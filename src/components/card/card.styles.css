@@ -1,0 +1,28 @@
+.card-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #FFFF00;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 20px;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+  	width: 250px;
+  	font-family: 'Press Start 2P', cursive;
+	text-align: center;
+	font-size: 15px;
+  }
+  
+  .card-container:hover {
+    transform: scale(1.05);
+  }
+  
+  div p{
+  font-size: 15px;
+  word-break: break-all;
+  font-family: Ubuntu
+  }
+  
