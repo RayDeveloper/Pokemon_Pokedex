@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Pokemon_Monsters/precache-manifest.0fea47beab2fd409c9c9712f45983e5d.js"
+  "/Pokemon_Monster/precache-manifest.0d16aa1eee23b58b1bb9f1ba7b603426.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Pokemon_Monsters/index.html", {
+workbox.routing.registerNavigationRoute("/Pokemon_Monster/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

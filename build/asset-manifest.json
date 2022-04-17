@@ -1,13 +1,13 @@
 {
-  "main.css": "/Pokemon_Monsters/static/css/main.b4f394f6.chunk.css",
-  "main.js": "/Pokemon_Monsters/static/js/main.ef8a4a18.chunk.js",
-  "main.js.map": "/Pokemon_Monsters/static/js/main.ef8a4a18.chunk.js.map",
-  "runtime~main.js": "/Pokemon_Monsters/static/js/runtime~main.c028f884.js",
-  "runtime~main.js.map": "/Pokemon_Monsters/static/js/runtime~main.c028f884.js.map",
-  "static/js/2.3c5292f0.chunk.js": "/Pokemon_Monsters/static/js/2.3c5292f0.chunk.js",
-  "static/js/2.3c5292f0.chunk.js.map": "/Pokemon_Monsters/static/js/2.3c5292f0.chunk.js.map",
-  "index.html": "/Pokemon_Monsters/index.html",
-  "precache-manifest.0fea47beab2fd409c9c9712f45983e5d.js": "/Pokemon_Monsters/precache-manifest.0fea47beab2fd409c9c9712f45983e5d.js",
-  "service-worker.js": "/Pokemon_Monsters/service-worker.js",
-  "static/css/main.b4f394f6.chunk.css.map": "/Pokemon_Monsters/static/css/main.b4f394f6.chunk.css.map"
+  "main.css": "/Pokemon_Monster/static/css/main.b4f394f6.chunk.css",
+  "main.js": "/Pokemon_Monster/static/js/main.5e84dfcb.chunk.js",
+  "main.js.map": "/Pokemon_Monster/static/js/main.5e84dfcb.chunk.js.map",
+  "runtime~main.js": "/Pokemon_Monster/static/js/runtime~main.71ab7b84.js",
+  "runtime~main.js.map": "/Pokemon_Monster/static/js/runtime~main.71ab7b84.js.map",
+  "static/js/2.3c5292f0.chunk.js": "/Pokemon_Monster/static/js/2.3c5292f0.chunk.js",
+  "static/js/2.3c5292f0.chunk.js.map": "/Pokemon_Monster/static/js/2.3c5292f0.chunk.js.map",
+  "index.html": "/Pokemon_Monster/index.html",
+  "precache-manifest.0d16aa1eee23b58b1bb9f1ba7b603426.js": "/Pokemon_Monster/precache-manifest.0d16aa1eee23b58b1bb9f1ba7b603426.js",
+  "service-worker.js": "/Pokemon_Monster/service-worker.js",
+  "static/css/main.b4f394f6.chunk.css.map": "/Pokemon_Monster/static/css/main.b4f394f6.chunk.css.map"
 }

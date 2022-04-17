@@ -1,7 +1,7 @@
 {
   "name": "Pokemon Monsters",
   "version": "1.0.0",
-  "homepage": "https://RayDeveloper.github.io/Pokemon_Monsters",
+  "homepage": "https://RayDeveloper.github.io/Pokemon_Monster",
   "description": "Pokemon Monsters",
   "main": "index.js",
   "scripts": {
