@@ -1,3 +1,5 @@
+UWI ID: 813117991
+
 # Pokemon Pokedex
 Pokemon pokedex is used to display the first **500** pokemon in the pokemon database. You have the ability to search for a pokemon by name, as you type the program brings up suggestions for it.
 
